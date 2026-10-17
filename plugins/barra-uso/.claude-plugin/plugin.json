@@ -1,0 +1,1 @@
+{ "name": "barra-uso", "version": "0.2.0", "description": "Due righe colorate sotto il prompt: contesto, limiti 5h e settimanali con reset, modello, costo, durata, branch", "types": "./types/index.d.ts" }

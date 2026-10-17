@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-mods",
+  "description": "Mod personali per Claude Code",
+  "owner": { "name": "M's Works" },
+  "plugins": [
+    {
+      "name": "barra-uso",
+      "description": "Due righe colorate sotto il prompt: contesto, limiti 5h e settimanali con reset, modello, costo, durata, branch",
+      "source": "./plugins/barra-uso"
+    }
+  ]
+}
